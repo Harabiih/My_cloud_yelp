@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-myyelpcloud-dev-5bcef-authRole",
+      "UnauthRoleArn": "arn:aws:iam::471112894064:role/amplify-myyelpcloud-dev-5bcef-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::471112894064:role/amplify-myyelpcloud-dev-5bcef-authRole",
+      "Region": "sa-east-1",
+      "DeploymentBucketName": "amplify-myyelpcloud-dev-5bcef-deployment",
+      "UnauthRoleName": "amplify-myyelpcloud-dev-5bcef-unauthRole",
+      "StackName": "amplify-myyelpcloud-dev-5bcef",
+      "StackId": "arn:aws:cloudformation:sa-east-1:471112894064:stack/amplify-myyelpcloud-dev-5bcef/c4158b60-8c85-11ef-b104-0220984f8f8b",
+      "AmplifyAppId": "d3qulj324i5unh"
+    },
+    "categories": {
+      "auth": {
+        "myyelpcloudfd41820e": {}
+      },
+      "api": {
+        "myyelpcloud": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3qulj324i5unh",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
